@@ -1,9 +1,4 @@
 """
-James Smith
-COP4620
-Spring 2019
-Project 2
-
 This is my implementation of a LL(1) recursive decent parser for the C- language.
 """
 import inspect
